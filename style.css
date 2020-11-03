@@ -1,0 +1,87 @@
+/* font-family: 'Black Ops One', cursive;
+font-family: 'Harmattan', sans-serif; */
+
+body{
+    background-color: #2d4059;
+    font-family: 'Harmattan', sans-serif;
+    color: #f07b3f;
+}
+
+.vanish{
+    display: none;
+}
+
+/* Start */
+.start-text{
+    margin-top: 3rem;
+}
+
+.start-text h1{
+    font-family: 'Black Ops One', cursive;
+    font-size: 300%;
+    color: #ea5455;
+
+}
+
+/* Cards */
+.cards{
+    margin-top: 5rem;
+}
+.cards > .btn-warning{
+    background-color: #ffd460;
+    color: #2d4059;
+    width: 3.5rem;
+    height: 3rem;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.cards > .btn-danger{
+    background-color: #ffd460;
+    color: #2d4059;
+    width: 15rem;
+    height: 3rem;
+    font-weight: bold;
+    font-size: 150%;
+    margin-top: 2rem;
+}
+
+.btn-success{
+    background-color: #f07b3f;
+    color: #2d4059;
+    width: 6rem;
+    height: 3rem;
+    font-weight: bold;
+    font-size: 150%;
+    margin-top: 1rem;
+}
+
+.btn-success:hover{
+    background-color: #ffd460;
+    color:  #2d4059;;
+}
+
+.btn-warning:hover{
+    background-color: #f07b3f;
+}
+
+
+.press-i{
+    background-color: #f07b3f !important;
+}
+.true{
+    background-color: greenyellow !important;
+}
+.false{
+    background-color: red !important;
+}
+
+
+
+/* Footer */
+.footer-i > p{
+    margin-top: 5rem;
+    color: #ea5455;
+    font-size: 70%;
+    text-align: center;
+}
